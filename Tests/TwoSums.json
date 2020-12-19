@@ -1,0 +1,31 @@
+{
+    "name": "Two Sums",
+    "code": "TwoSums",
+    "description": "Description",
+    "testCases": [
+        {
+            "name": "[[3, 2, 4], 6]",
+            "data": {
+                "argumentNums": [3, 2, 4],
+                "argumentTarget": 6,
+                "result": [1, 2]
+            }
+        },
+        {
+            "name": "[[2, 7, 11, 15], 9]",
+            "data": {
+                "argumentNums": [2, 7, 11, 15],
+                "argumentTarget": 9,
+                "result": [0, 1]
+            }
+        },
+        {
+            "name": "[[3, 3], 6]",
+            "data": {
+                "argumentNums": [3, 3],
+                "argumentTarget" : 6,
+                "result": [0, 1]
+            }
+        }
+    ]
+}

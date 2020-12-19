@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsharpApp": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../../Tests/TwoSums.json \"CsharpApp.TwoSumTestAdapter\""
+    }
+  }
+}
