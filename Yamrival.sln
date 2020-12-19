@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yamrival.Api", "Yamrival.Api/Yamrival.Api.csproj", "{015EB55F-3976-40D1-BD6A-BC22BF3CC982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpApp", "CsharpApp\CsharpApp.csproj", "{A6C53DBD-1D88-4C3C-B197-09A787E3448D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015EB55F-3976-40D1-BD6A-BC22BF3CC982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015EB55F-3976-40D1-BD6A-BC22BF3CC982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015EB55F-3976-40D1-BD6A-BC22BF3CC982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015EB55F-3976-40D1-BD6A-BC22BF3CC982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C53DBD-1D88-4C3C-B197-09A787E3448D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C53DBD-1D88-4C3C-B197-09A787E3448D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C53DBD-1D88-4C3C-B197-09A787E3448D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C53DBD-1D88-4C3C-B197-09A787E3448D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
